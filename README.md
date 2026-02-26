@@ -1,5 +1,10 @@
 # Car Rental Website
 
+## Purpose
+This website helps people quickly find, compare, and book rental cars online.  
+Customers can browse available cars, choose rental dates, complete checkout, and track booking status, while admins manage requests, inventory, and booking approvals.
+
+
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-5.x-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?logo=mongodb&logoColor=white)
