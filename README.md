@@ -333,8 +333,3 @@ With `API_URL=/api/v1`:
 2. Create a feature branch
 3. Commit your changes
 4. Open a pull request with a clear description
-
-## License
-
-ISC
-'@ | Set-Content -Path README.md
